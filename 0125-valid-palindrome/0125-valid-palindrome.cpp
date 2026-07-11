@@ -9,7 +9,7 @@ public:
                 
             }
         }
-        bool ans;
+        bool ans=true;
         for(int i=0; i<filtered.size()/2; i++){
             if(filtered[i] != filtered[filtered.size()-i-1]){
                 ans=false;
