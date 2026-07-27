@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 ## Array
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
