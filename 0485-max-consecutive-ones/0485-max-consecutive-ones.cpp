@@ -8,7 +8,7 @@ public:
         for(int i=0; i<n; i++){
             if(arr[i]==1){
                 cnt++;
-                if(ans<cnt) ans=cnt;
+                ans=max(ans, cnt);
             }
             else{
                 cnt=0;
