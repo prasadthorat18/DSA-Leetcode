@@ -3,16 +3,17 @@ public:
     int singleNumber(vector<int>& arr) {
         int n=arr.size();
 
+        map<int, int> mp;
         for(int i=0; i<n; i++){
-            int cnt=0;
-            for(int j=0; j<n; j++){
-                if(arr[i]==arr[j]){
-                    cnt++;
-                }
-            }
-            if(cnt==1) return arr[i];
+            mp[arr[i]]++;
         }
-     return -1;
+
+        for(auto it : mp){
+            if(it.second == 1){
+                return it.first;
+            }
+        }
+        return -1;
         
     }
 };
