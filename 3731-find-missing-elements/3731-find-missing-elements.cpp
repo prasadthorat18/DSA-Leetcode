@@ -3,6 +3,11 @@ public:
     vector<int> findMissingElements(vector<int>& arr) {
         
         int n=arr.size();
+
+        unordered_set<int> st;
+        for(int i=0; i<n; i++){
+            st.insert(arr[i]);
+        }
         
         int small=arr[0];
         int maxi=arr[0];
@@ -12,16 +17,9 @@ public:
         }
         vector<int> ans;
         for(int i=small; i<=maxi; i++){
-            bool flag=0;
-            for(int j=0; j<n; j++){
-                if(arr[j] == i){
-                    flag=1;
-                    break;
-                }
-            }
-            if(flag == 0){
+           if(st.find(i) == st.end()){
                 ans.push_back(i);
-            }
+           }
         }
         return ans;
     }
