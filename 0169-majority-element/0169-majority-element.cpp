@@ -3,14 +3,27 @@ public:
     int majorityElement(vector<int>& arr) {
         int n= arr.size();
 
-        map<int, int> mpp;
+        int cnt=0;
+        int el;
+        for(int i=0 ;i<n; i++){
+            if(cnt == 0){
+                el=arr[i];
+                cnt=1;
+            }
+            else if(arr[i] == el){
+                cnt++;
+            }
+            else{
+                cnt--;
+            } 
+        }
 
+        int cnt2=0;
         for(int i=0; i<n; i++){
-            mpp[arr[i]]++;
+            if(arr[i]==el) cnt2++;
         }
-        for(auto it : mpp){
-            if(it.second > n/2) return it.first;
-        }
+        if(cnt2 > n/2) return el;
+
         return -1;
         
     }
