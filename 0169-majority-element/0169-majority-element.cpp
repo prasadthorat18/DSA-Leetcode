@@ -18,13 +18,19 @@ public:
             } 
         }
 
-        int cnt2=0;
-        for(int i=0; i<n; i++){
-            if(arr[i]==el) cnt2++;
-        }
-        if(cnt2 > n/2) return el;
+        // int cnt2=0;
+        // for(int i=0; i<n; i++){
+        //     if(arr[i]==el) cnt2++;
+        // }
+        // if(cnt2 > n/2) return el;
 
-        return -1;
+        // return -1;
+
+        // the question already state that majority element is always presrent so direct print el
+        
+        return el;
+
+        
         
     }
 };
