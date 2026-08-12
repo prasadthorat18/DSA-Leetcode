@@ -8,8 +8,10 @@ public:
             reversed = reversed*10+(lst);
             n=n/10;
         } 
-        if (reversed < INT_MIN || reversed > INT_MAX)
+        if (reversed < INT_MIN || reversed > INT_MAX){
             return 0;
+        }
+            
             
         return reversed;
     }
