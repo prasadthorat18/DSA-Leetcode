@@ -2,19 +2,22 @@ class Solution {
 public:
     int majorityElement(vector<int>& arr) {
         int n= arr.size();
-        
-        int ans=0;
-        map<int, int> mpp;
+
+        int cnt=0;
+        int el;
         for(int i=0; i<n; i++){
-            mpp[arr[i]]++;
-        }
-        for(auto it : mpp){
-            if(it.second > n/2){
-                ans=it.first;
-                break;
+            if(cnt == 0){
+                cnt=1;
+                el= arr[i];
+            }
+            else if(arr[i] == el){
+                cnt++;
+            }
+            else{
+                cnt--;
             }
         }
-        return ans;
+
         // int cnt2=0;
         // for(int i=0; i<n; i++){
         //     if(arr[i]==el) cnt2++;
@@ -24,10 +27,7 @@ public:
         // return -1;
 
         // the question already state that majority element is always presrent so direct print el
-        
-        
-
-        
+        return el;
         
     }
 };
