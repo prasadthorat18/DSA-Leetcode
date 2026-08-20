@@ -5,15 +5,15 @@ public:
 
         int profit=0;
         int maxi=0;
-        int mini=arr[0];
+        int mini = arr[0];
         for(int i=1; i<n; i++){
-            profit = arr[i] - mini;
+            profit= arr[i]-mini;
 
-            maxi= max(profit , maxi);
+            maxi= max(maxi, profit);
 
-            mini= min(mini, arr[i]);
+            mini= min(arr[i], mini);
         }
-
+        
         return maxi;
     }
 };
