@@ -3,14 +3,14 @@ public:
     vector<int> twoSum(vector<int>& arr, int target) {
         int n=arr.size();
 
-        map<int,int> mpp;
+        int tsum=0;
         for(int i=0; i<n; i++){
-            int current=arr[i];
-            int moreNeeded = target - current;
-            if(mpp.find(moreNeeded) != mpp.end()){
-                return {mpp[moreNeeded], i};
+            for(int j=i+1; j<n; j++){
+                tsum= arr[i]+arr[j];
+                if(tsum == target){
+                    return {i, j};
+                }
             }
-            mpp[current] = i;
         }
         return {-1, -1};
     }
