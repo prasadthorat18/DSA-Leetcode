@@ -11,8 +11,6 @@ public:
         while(low <= high){
             int mid = (low + high)/2;
 
-            
-
             if(arr[mid] >= target){
                 ans = mid;
                 high = mid - 1;
