@@ -2,23 +2,59 @@ class Solution {
 public:
     vector<int> searchRange(vector<int>& arr, int target) {
         int n= arr.size();
-        int lb=lowbound(arr,target);
+        int first=FirstOccurnace(arr,target);
 
-        if(lb == n || arr[lb] != target){
+        if(first == -1){
             return {-1, -1};
         }
-        return {lb, uppBound(arr, target)-1};
+        int last = LastOccurnace(arr, target);
+        return {first, last};
    
     }
-    int lowbound(vector<int>& arr, int target){
+    int FirstOccurnace(vector<int>& arr, int target){
+        int n= arr.size();
 
-        int lb = lower_bound(arr.begin(), arr.end(), target) - arr.begin();
-        return lb;
+        int low=0; int high=n-1;
+        int first = -1;
+
+        while(low <= high){
+            int mid = (low + high) / 2;
+
+            if(arr[mid] == target){
+                first = mid;
+                high = mid -1;
+            }
+            else if(arr[mid] < target){
+                low = mid +1;
+            }
+            else{
+                high = mid -1;
+            }
+        }
+        return first;
     }
 
-    int uppBound(vector<int>& arr, int target){
+    int LastOccurnace(vector<int>& arr, int target){
+        int n= arr.size();
 
-         int ub = upper_bound(arr.begin(), arr.end(), target) - arr.begin();
-         return ub;
+        int low=0; int high=n-1;
+        int last = -1;
+
+        while(low <= high){
+
+            int mid = (low +high) / 2;
+
+            if(arr[mid] == target){
+                last = mid;
+                low = mid + 1;
+            }
+            else if(arr[mid] < target){
+                low = mid +1;
+            }
+            else{
+                high = mid - 1;
+            }
+        }
+        return last;
     }
 };
