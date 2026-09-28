@@ -11,6 +11,11 @@ public:
             
             int mid= (low + high) /2 ;
 
+            if(arr[low] <= arr[high]){
+                ans = min(ans, arr[low]);
+                break;
+            }
+
             if(arr[low] <= arr[mid]){
                 ans =min(ans,arr[low] );
                 low = mid + 1;
