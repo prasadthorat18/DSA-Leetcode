@@ -3,14 +3,10 @@ public:
     int singleNonDuplicate(vector<int>& arr) {
         int n= arr.size();
         
-        map<int , int> mp;
-
+        int xorr = 0;
         for(int i=0; i<n; i++){
-            mp[arr[i]]++;
+            xorr = xorr ^ arr[i];
         }
-        for(auto it : mp){
-            if(it.second == 1) return it.first;
-        }
-        return -1;
+        return xorr;
     }
 };
