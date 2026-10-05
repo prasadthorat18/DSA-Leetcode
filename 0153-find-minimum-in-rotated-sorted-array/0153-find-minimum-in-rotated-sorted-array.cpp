@@ -12,6 +12,7 @@ public:
 
             if(arr[low]<= arr[high]){
                 ans = min(arr[low], ans);
+                break;
             }
 
             if(arr[low] <= arr[mid]){
