@@ -1,58 +1,53 @@
 class Solution {
 public:
-    vector<int> searchRange(vector<int>& arr, int target) {
-        int n= arr.size();
-        int first=FirstOccurnace(arr,target);
+    vector<int> searchRange(vector<int>& arr, int x) {
+        int n = arr.size();
 
-        if(first == -1){
-            return {-1, -1};
-        }
-        int last = LastOccurnace(arr, target);
-        return {first, last};
-   
+        int first = firstocc(arr, x);
+        int last = lastocc(arr, x);
+
+        if(first == -1 || arr[first] != x) return {-1,-1};
+
+        return{first, last-1};
     }
-    int FirstOccurnace(vector<int>& arr, int target){
-        int n= arr.size();
 
-        int low=0; int high=n-1;
+    int firstocc(vector<int>& arr, int x){
+        int n=arr.size();
+
+        int low=0;
+        int high = n-1;
         int first = -1;
 
         while(low <= high){
-            int mid = (low + high) / 2;
+            int mid = (low + high)/2;
 
-            if(arr[mid] == target){
+            if(arr[mid] >= x){
                 first = mid;
-                high = mid -1;
-            }
-            else if(arr[mid] < target){
-                low = mid +1;
+                high = mid - 1;
             }
             else{
-                high = mid -1;
+                low = mid + 1;
             }
         }
         return first;
     }
+    int lastocc(vector<int>& arr, int x){
+        int n=arr.size();
 
-    int LastOccurnace(vector<int>& arr, int target){
-        int n= arr.size();
+        int low=0;
+        int high = n-1;
 
-        int low=0; int high=n-1;
-        int last = -1;
+        int last = n;
 
         while(low <= high){
+            int mid = (low + high)/2;
 
-            int mid = (low +high) / 2;
-
-            if(arr[mid] == target){
+            if(arr[mid] > x){
                 last = mid;
-                low = mid + 1;
-            }
-            else if(arr[mid] < target){
-                low = mid +1;
+                high = mid - 1;
             }
             else{
-                high = mid - 1;
+                low = mid + 1;
             }
         }
         return last;
