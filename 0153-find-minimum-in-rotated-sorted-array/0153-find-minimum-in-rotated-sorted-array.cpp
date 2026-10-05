@@ -5,23 +5,21 @@ public:
 
         int low=0;
         int high = n-1;
-        int ans=INT_MAX;
+        int ans = INT_MAX;
 
-        while(low<=high){
-            
-            int mid= (low + high) /2 ;
+        while(low <= high){
+            int mid = (low + high) / 2;
 
-            if(arr[low] <= arr[high]){
-                ans = min(ans, arr[low]);
-                break;
+            if(arr[low]<= arr[high]){
+                ans = min(arr[low], ans);
             }
 
             if(arr[low] <= arr[mid]){
-                ans =min(ans,arr[low] );
+                ans = min(arr[low], ans);
                 low = mid + 1;
             }
-            else {
-                ans = min(ans, arr[mid] );
+            else{
+                ans = min(ans, arr[mid]);
                 high = mid - 1;
             }
         }
