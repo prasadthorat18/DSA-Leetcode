@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
