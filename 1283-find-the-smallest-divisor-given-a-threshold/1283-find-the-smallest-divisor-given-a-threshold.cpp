@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    int Divisor_sum(vector<int>& arr, int threshold, int mid){
+    int Divisor_sum(vector<int>& arr, int mid){
         int n= arr.size();
         int sum = 0;
         for(int i=0; i<n; i++){
@@ -23,7 +23,7 @@ public:
         while(low <= high){
             int mid = (low + high) / 2;
 
-            if( Divisor_sum(arr,threshold,mid) <= threshold){
+            if( Divisor_sum(arr,mid) <= threshold){
 
                 high = mid - 1;
             }
