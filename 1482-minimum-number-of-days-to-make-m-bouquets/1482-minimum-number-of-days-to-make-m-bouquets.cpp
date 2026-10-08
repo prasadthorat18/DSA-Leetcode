@@ -24,7 +24,7 @@ public:
     int minDays(vector<int>& bloomDay, int m, int k) {
         int n = bloomDay.size();
 
-        long long impossible =  1LL * m*k;
+        long long impossible =  1LL * m*k;  //  1LL use to convert a int in long long to svoid overflow
         if(impossible > n) return -1;
 
         int mini = *min_element(bloomDay.begin(), bloomDay.end());
