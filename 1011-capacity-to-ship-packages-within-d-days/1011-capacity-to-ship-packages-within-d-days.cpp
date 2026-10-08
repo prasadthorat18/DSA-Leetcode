@@ -24,13 +24,13 @@ public:
         
         int maxi = *max_element(weights.begin(), weights.end());
 
-        int sum = 0;
+        long long sum = 0;
         for(int i=0; i<n; i++){
             sum = sum + weights[i];
         }
 
         int low = maxi;
-        int high = sum;
+        long long high = sum;
         while( low <= high){
             int mid = low +(high - low) / 2;
 
