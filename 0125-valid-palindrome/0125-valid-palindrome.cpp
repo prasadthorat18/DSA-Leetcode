@@ -1,22 +1,22 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-    
-        string filtered ="";
-        for(char ch : s){
-            if(isalnum(ch)){
-                filtered += tolower(ch);
-                
+        // remove all non-alphanumeric charectes (isalnum) and for lowercase (tolower)
+        string ans="";
+        for(char c: s){
+            if(isalnum(c)){
+                ans += tolower(c);
             }
         }
-        bool ans=true;
-        for(int i=0; i<filtered.size()/2; i++){
-            if(filtered[i] != filtered[filtered.size()-i-1]){
-                ans=false;
-                break;
-            }
-            ans=true;
+
+        int n = ans.size();
+        int st =0;
+        int end = n-1;
+        while(st < end){
+            if(ans[st] != ans[end]) return false;
+            st++;
+            end--;
         }
-         return ans;
+        return true;
     }
 };
