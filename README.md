@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0409-longest-palindrome) |
 | [3731-find-missing-elements](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3731-find-missing-elements) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0409-longest-palindrome) |
 | [1859-sorting-the-sentence](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1859-sorting-the-sentence) |
