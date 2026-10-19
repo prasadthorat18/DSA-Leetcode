@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0268-missing-number) |
+| [1859-sorting-the-sentence](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1859-sorting-the-sentence) |
 | [3731-find-missing-elements](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0409-longest-palindrome) |
+| [1859-sorting-the-sentence](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [1859-sorting-the-sentence](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1859-sorting-the-sentence) |
 ## Divide and Conquer
 |  |
 | ------- |
