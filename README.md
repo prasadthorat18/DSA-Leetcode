@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3731-find-missing-elements](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3731-find-missing-elements) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
