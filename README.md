@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/2409-count-days-spent-together) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quicksort
 |  |
 | ------- |
@@ -206,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
