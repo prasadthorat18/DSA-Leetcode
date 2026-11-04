@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
