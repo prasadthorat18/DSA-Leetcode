@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1859-sorting-the-sentence](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3731-find-missing-elements) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
