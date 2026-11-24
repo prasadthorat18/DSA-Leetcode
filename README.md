@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1859-sorting-the-sentence](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3731-find-missing-elements](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/0409-longest-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Trie
 |  |
 | ------- |
