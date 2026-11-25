@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3731-find-missing-elements](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3934-smallest-unique-subarray](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2747-count-zero-request-servers](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3731-find-missing-elements](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3934-smallest-unique-subarray](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -246,4 +249,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/prasadthorat18/DSA-Leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
